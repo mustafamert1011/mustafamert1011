@@ -13,22 +13,10 @@
 <p align="left">
         <a href="https://discord.gg/2PbGvKQX78" target="blank"><img align="center" 
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
-            alt="2PbGvKQX78" height="30" width="40" /></a>
-
-        <a href="https://discord.gg/2PbGvKQX78" target="blank"><img align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
-            alt="adsa" height="30" width="40" /></a>
-
-
-
-
-
-
-    
-
-            
-        
-            
+            alt="2PbGvKQX78" height="30" width="40" /></a>     
+            <a href="https://discord.gg/2PbGvKQX78" target="blank"><img align="center" 
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
+                alt="2PbGvKQX78" height="30" width="40" /></a>            
 </p>
 
 
