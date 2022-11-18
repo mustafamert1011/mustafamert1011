@@ -19,18 +19,18 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/youtube.svg"
             alt="2PbGvKQX78" height="30" width="40" /></a>
 
-        <a href="https://www.youtube.com/channel/UCTLZ59R6WsZMoaD4qGtue-w" target="blank"><img align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/youtube.svg"
-            alt="2PbGvKQX78" height="30" width="40" /></a>
-    
-        <a href="https://instagram.com/mustafamert__35" target="blank"><img align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg"
+        <a href="https://discord.gg/2PbGvKQX78" target="blank"><img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
             alt="2PbGvKQX78" height="30" width="40" /></a>
 
-        <a href="https://www.linkedin.com/in/mustafa-mert-437331239/" target="blank"><img align="center" 
-            src="https://i.hizliresim.com/g55lsym.png"
+        <a href="https://discord.gg/2PbGvKQX78" target="blank"><img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
             alt="2PbGvKQX78" height="30" width="40" /></a>
 
+
+        <a href="https://discord.gg/2PbGvKQX78" target="blank"><img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
+            alt="2PbGvKQX78" height="30" width="40" /></a>
 
     
 
