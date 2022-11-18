@@ -15,16 +15,16 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
             alt="2PbGvKQX78" height="30" width="40" /></a>     
             <a href="https://discord.gg/2PbGvKQX78" target="blank"><img align="center" 
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/youtube.svg"
                 alt="2PbGvKQX78" height="30" width="40" /></a>      
                 <a href="https://discord.gg/2PbGvKQX78" target="blank"><img align="center" 
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/youtube.svg"
                     alt="2PbGvKQX78" height="30" width="40" /></a>  
                     <a href="https://discord.gg/2PbGvKQX78" target="blank"><img align="center" 
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg"
                         alt="2PbGvKQX78" height="30" width="40" /></a>  
                         <a href="https://discord.gg/2PbGvKQX78" target="blank"><img align="center" 
-                            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg"
+                            src="https://i.hizliresim.com/g55lsym.png"
                             alt="2PbGvKQX78" height="30" width="40" /></a>  
                       
 </p>
