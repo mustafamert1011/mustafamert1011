@@ -66,13 +66,13 @@
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="mustafamemd" /></a> </p><br><br><br><br><br><br><br><br>
 
-<p><img align="left"
+<p><img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafamert1011&show_icons=true&locale=en&layout=compact"
         alt="mustafamert1011" /> </p>
 
-<p> <img align="left"
+<p> <img 
         src="https://github-readme-stats.vercel.app/api?username=mustafamert1011&show_icons=true&locale=en"
         alt="mustafamert1011" /> </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafamert1011&"
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mustafamert1011&"
         alt="mustafamert1011" /></p>
