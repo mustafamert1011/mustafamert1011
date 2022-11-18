@@ -66,7 +66,7 @@
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="mustafamemd" /></a> </p><br><br>
 
-<p><img align="left"
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafamert1011&show_icons=true&locale=en&layout=compact"
         alt="mustafamert1011" /> </p>
 
